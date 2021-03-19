@@ -55,7 +55,7 @@ print("Telegram : @mamoozedh")
 
 print(f"{pink} "
 
-print("∆ΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠΠ∆")
+
 
 print(f"{green} ")
 
